@@ -42,13 +42,5 @@ The notebook performs the following tasks:
 - `Final Assignment (3).ipynb`: Main Jupyter notebook.
 - `README.md`: This file.
 
- Learning Objectives
+ 
 
-- Practice data extraction using APIs and web scraping.
-- Apply data cleaning techniques.
-- Visualize data relationships using graphs.
-- Combine stock market data with financial performance metrics.
-
----
-
-Let me know if you'd like a version of this README tailored for GitHub formatting, or if you want to include screenshots or outputs!
